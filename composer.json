@@ -1,0 +1,27 @@
+{
+    "name": "andronics/boost",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/andronics/boost"
+        }
+    ],
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Cox",
+            "email": "andronics@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "andronics/boost": "dev-master",
+        "leafo/scssphp": "0.0.12",
+        "pug-php/pug": "^2.0.1 || ^3.0.0"
+    },
+    "require-dev": {},
+    "autoload": {
+    }
+}
